@@ -44,7 +44,3 @@ Files in directory SQLite3 working with SQLite3. Newest version of SQLite3 avail
   `.read select1.sql`
   
   `.read select2.sql`
-
-  6 Alternatively, you can use the `XF.sql` file to execute commands from both select1.sql and select2.sql
-
-  `.read XF.sql`
