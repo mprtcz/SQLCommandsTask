@@ -1,3 +1,5 @@
+USE xf;
+
 INSERT INTO Country VALUES (1, "Poland");
 INSERT INTO Country VALUES (2, "Germany");
 INSERT INTO Country VALUES (3, "UK");

@@ -1,5 +1,7 @@
 # Selecting countries where a total number of inhabitants in all cities is greater than 400
 
+USE xf;
+
 SELECT Name FROM Country WHERE CountryId IN (
 	SELECT CountryID FROM City 
 	GROUP BY CountryID 
