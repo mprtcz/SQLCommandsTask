@@ -1,5 +1,9 @@
 # SQLCommandsTask
+
 A collection of .sql files required to complete given task. 
+
+MySQL
+--------------------
 
 For MySQL relevant files stored in MySQL folder. Executing them by given order will create a schema,
 populate it with sample INSERT statements and retrieve information required by task description.
@@ -19,7 +23,8 @@ populate it with sample INSERT statements and retrieve information required by t
   4. Execute `select2.sql` to retrieve names of countries that have no buildings at all.
   `source select2.sql`
 
-
+SQLite3
+-------------------
 Files in directory SQLite3 working with SQLite3. Newest version of SQLite3 available at [SQLite official page](https://www.sqlite.org/download.html)
 
   1. Run sqlite3.exe
