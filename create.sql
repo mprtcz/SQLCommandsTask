@@ -1,7 +1,7 @@
--- creating new database "database.db"
+.print "Creating new database database.db"
 .open database.db
 
--- creating 3 tables for country, city and building
+.print "Creating 3 tables for country, city and building"
 
 CREATE TABLE Country (
 	CountryID INT PRIMARY KEY, 

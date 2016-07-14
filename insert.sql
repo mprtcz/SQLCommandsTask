@@ -1,14 +1,14 @@
--- populating Country table with example values
+.print "populating Country table"
 
 INSERT INTO Country VALUES (1, "Poland");
 INSERT INTO Country VALUES (2, "Germany");
 INSERT INTO Country VALUES (3, "UK");
 INSERT INTO Country VALUES (4, "Norway");
 
--- populating City table
+.print "populating City table"
 
 -- polish cities
-INSERT INTO City VALUES (1, 1, "Warsaw", 100);
+INSERT INTO City VALUES (1, 1, "Warsaw", 200);
 INSERT INTO City VALUES (2, 1, "Wroclaw", 100);
 INSERT INTO City VALUES (3, 1, "Gdynia", 100);
 INSERT INTO City VALUES (4, 1, "Rzeszow", 100);
@@ -26,7 +26,7 @@ INSERT INTO City VALUES (10, 3, "Winterfell", 100);
 -- norwegian city
 INSERT INTO City VALUES (11, 4, "Oslo", 100);
 
--- populating Buildings table
+.print "populating Buildings table"
 
 -- warsaw's buildings
 INSERT INTO Building VALUES (1, 1, "wBuilding1", 1);
