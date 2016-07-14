@@ -1,4 +1,4 @@
-.open "xf.db"
+.open "XF.db"
 
 .print "Selecting countries where a total number of inhabitants in all cities is greater than 400":
 

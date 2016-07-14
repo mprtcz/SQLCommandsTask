@@ -1,4 +1,4 @@
-.open "database.db"
+.open "XF.db"
 
 .print "Selecting names of the countries that have no buildings at all"
 

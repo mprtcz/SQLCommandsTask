@@ -1,5 +1,5 @@
-.print "Creating new database xf.db"
-.open xf.db
+.print "Creating new database XF.db"
+.open XF.db
 
 .print "Creating 3 tables for country, city and building"
 
