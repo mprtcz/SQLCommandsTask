@@ -6,12 +6,18 @@ populate it with sample INSERT statements and retrieve information required by t
 
   1. Execute `create.sql` to create XF schema with defined tables: Country, City and Building
   
+  `source create.sql`
+  
   2. Execute `insert.sql` to insert sample values into tables
+  
+  `source insert.sql`
   
   3. Execute `select1.sql` to retrieve information about countries where a total number of inhabitants (population) in all cities is greater than 400.
   
+  `source select1.sql`
+  
   4. Execute `select2.sql` to retrieve names of countries that have no buildings at all.
-
+  `source select2.sql`
 
 
 Files in directory SQLite3 working with SQLite3. Newest version of SQLite3 available at [SQLite official page](https://www.sqlite.org/download.html)
