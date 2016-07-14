@@ -21,6 +21,7 @@ populate it with sample INSERT statements and retrieve information required by t
   `source select1.sql`
   
   4. Execute `select2.sql` to retrieve names of countries that have no buildings at all.
+  5. 
   `source select2.sql`
 
 SQLite3
