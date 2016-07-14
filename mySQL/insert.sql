@@ -1,4 +1,4 @@
-USE xf;
+USE XF;
 
 INSERT INTO Country VALUES (1, "Poland");
 INSERT INTO Country VALUES (2, "Germany");
